@@ -1,2 +1,3 @@
 # debugwg
-Debug Go WaitGroup
+
+Debug Go WaitGroup by Printing WaitGroup count
